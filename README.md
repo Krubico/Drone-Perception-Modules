@@ -1,8 +1,8 @@
 # Security-Drone
 
-Currently, this repo contains code of my facial recognition models build with OpenCV and additional fun models that track hand motion, faces and more with mediapipe.
+Currently, this repo contains code of my facial recognition modules build with OpenCV and additional fun models that track hand motion, faces and more with mediapipe.
 
-Deliverables going forward: <br />
+Future Roadmap: <br />
 1 Drone Controller Script <br />
 2 Build AdaBins Model Script/ Get_Depth <br />
 3 Build PanoContext Model Script / Get_Panorama <br />
